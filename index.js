@@ -8,3 +8,12 @@ function createHeader() {
 }
 
 createHeader();
+
+function createContainer() {
+  const mainElement = document.createElement("main");
+  mainElement.classList.add("content__container");
+  mainElement.setAttribute("data-js", "content-container");
+  body.append(mainElement);
+}
+
+createContainer();

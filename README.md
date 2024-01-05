@@ -2,7 +2,7 @@
 
 ## GIT
 
-### **Case 1# (CLOSED):**
+### **Case 1# (CLOSED): Main/Branch**
 
 Git branch is set to `branchname:main`. Pushing the branch will push changes to the main.
 
@@ -27,3 +27,11 @@ Examples:
 - `margin-inline: 1rem`
 - `margin-inline-start: 1rem`
 - the first example changes the value on the left and right; the second example changes the value only on the left
+
+---
+
+## JavaScript
+
+### **Case #1: Import Path**
+
+**QUESTION:** Is it more stable code if the ".js" from an imported file is included in the path?
